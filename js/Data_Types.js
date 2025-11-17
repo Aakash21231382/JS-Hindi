@@ -20,5 +20,3 @@ let state;
 console.log(typeof(name)); //typeof
 console.log(typeof(undefined)); //undefined
 console.log(typeof null); // object
-
-
